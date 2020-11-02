@@ -1,3 +1,9 @@
+# A real time birthday reminder to list the birthdays of all your fiends on that day
+Project Build using Reactjs. Used React Hooks and Date().
+
+### Deployed Link
+[Click Here](https://yashgupta18.github.io/birthday-reminder/)
+
 ![picture](img/Deployedversion.png)
 # Getting Started with Create React App
 
